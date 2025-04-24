@@ -84,7 +84,8 @@ C’est le moteur principal de Docker. Il se compose de deux parties :
 - Tu peux avoir des **réseaux isolés**, des **règles de communication**, etc.
     
 - Tu peux même connecter plusieurs conteneurs ensemble via Compose ou en ligne de commande.
--Architecture de docker ![[Architecture Docker 1.png]]
+-Architecture de docker
+![Architecture de Kubernetes](.Architecture Docker 1.png)
 
 *(https://medium.com/@ravipatel.it/understanding-docker-architecture-a-comprehensive-guide-5ce9129df1a4)*
 ## 2. Différences entre conteneur et machine virtuelle
